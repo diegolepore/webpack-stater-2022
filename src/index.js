@@ -7,3 +7,5 @@ const laughImg = document.getElementById('laughImg')
 laughImg.src = laughing
 
 console.log(generateJoke())
+
+console.error('💥 This is an error in JS')
